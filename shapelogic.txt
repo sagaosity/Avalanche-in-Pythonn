@@ -1,0 +1,5 @@
+tempshape becomes the nextshape
+
+nextshape becomes the current shape
+
+shape becomes tempshape where nextshape is 
